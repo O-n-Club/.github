@@ -35,4 +35,6 @@ El O(n) Club aspira a consolidarse como una comunidad de referencia en el ámbit
 - [Rojas, Alejo](https://x.com/alejorrojass)
 - [Ruberto, Santiago](https://x.com/SantiagoSirvana)
 - [Zarate, Mateo](https://x.com/mateozaratef)
+- [Pedaccio, Facundo](https://x.com/fpedaccio)
+- [Montone, Nicolás](https://x.com/montonenico)
 
