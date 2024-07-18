@@ -30,11 +30,13 @@ El O(n) Club aspira a consolidarse como una comunidad de referencia en el ámbit
 - [Acosta, Lautaro](https://x.com/lautidev_)
 - [Irigoyen, Guido](https://x.com/GuidooIrigoyen)
 - [Koller, Jose Luis](https://x.com/0xKoller)
+- [Montone, Nicolás](https://x.com/montonenico)
+- [Pedaccio, Facundo](https://x.com/fpedaccio)
 - [Radovich, Valentin](https://x.com/software_valen)
 - [Ratti, Valentin](https://x.com/iamvsratti)
 - [Rojas, Alejo](https://x.com/alejorrojass)
 - [Ruberto, Santiago](https://x.com/SantiagoSirvana)
 - [Zarate, Mateo](https://x.com/mateozaratef)
-- [Pedaccio, Facundo](https://x.com/fpedaccio)
-- [Montone, Nicolás](https://x.com/montonenico)
+
+
 
